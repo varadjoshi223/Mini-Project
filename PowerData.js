@@ -18,3 +18,4 @@ const PowerDataSchema = new mongoose.Schema({
 
 const PowerData = mongoose.model("PowerData", PowerDataSchema);
 export default PowerData;
+//Logic for Showing Voltage and Current on dashboard
